@@ -1,4 +1,4 @@
-### How to swap in with Uniswap v2 with WEb3.js and Truffle.
+### How to swap in with Uniswap v2 with Web3.js and Truffle.
 
 In this repo, you can interact with the Uniswap protocol v2.
 I'm show an example simple swap between ETH -> WETH -> DAI. Can you find the address exchange for any other token you want to swap.[Uniswap v2 Router 02](https://kovan.etherscan.io/address/0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D) and using [Uniswap v2 Factory](https://kovan.etherscan.io/address/0x5c69bee701ef814a2b6a3edd4b1652cb9cc5aa6f#readContract) Can you find the address exchange for any other token you want to swap.
